@@ -1,0 +1,35 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: #18355D;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-top: 40px;
+}
+
+h2 {
+    color: #18355D;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+h3{
+    color: #18355D;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+p {
+    margin-bottom: 2px;
+}
+
+ul {
+    margin-top: 5px;
+    margin-bottom: 10px;
+    list-style-type: disc;
+    padding-left: 20px;
+}
